@@ -1,5 +1,5 @@
 # Base-Template-FR
-Base Template FR Legacy, Double job version : 1.12.4 Es_Extended
+Base Template FR-Legacy, Double job version : 1.12.4 Es_Extended
 
 Mon Serveur Communautaire, Sk-Gaming : https://discord.gg/4t9qadvqBt
 
